@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: prepUS
+Version: 0.1
+Summary: Utily script for ultrasound videos pre-processing.
+Home-page: https://github.com/Chop1/prepUS
+Author: MEYER Adrien
+License: Apache Software License 2.0
+Keywords: ultrasound preprocessing
+Classifier: Development Status :: 1 - Alpha
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
